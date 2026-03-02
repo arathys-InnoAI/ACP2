@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+out.txt
+out2.txt
+*.log
+test_catalog.js
+test_shopify.js
+test_shopify_creds.js
+tmp/
+.vscode/
+.DS_Store
